@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "3549b6dff0498fb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "94ea6de4cb673655",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37f8bf8ada4a7e8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d2f90db1435011b",
+    "type": "split",
+    "children": [
+      {
+        "id": "30bbc53305db1327",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e58b4c4bf266068",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3857020dd6501b08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b32f5531d415dd36",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "138fb15b6ae1709b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8c02c7d1d87dc4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1f3ed4ccaca750d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TryHackMe - Kenobi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TryHackMe - Kenobi"
+            }
+          },
+          {
+            "id": "958f84bb0117175b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TryHackMe - Kenobi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TryHackMe - Kenobi"
+            }
+          },
+          {
+            "id": "4203f25574e5c65f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ca536a938704fff3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TryHackMe - Kenobi.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TryHackMe - Kenobi"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "37f8bf8ada4a7e8a",
+  "lastOpenFiles": [
+    "Pasted image 20250816223802.png",
+    "Pasted image 20250816223618.png",
+    "Pasted image 20250816223508.png",
+    "Pasted image 20250816223353.png",
+    "Pasted image 20250816221452.png",
+    "Pasted image 20250816221149.png",
+    "Pasted image 20250816220844.png",
+    "Pasted image 20250816220826.png",
+    "Pasted image 20250816220751.png",
+    "Pasted image 20250816220605.png",
+    "Pasted image 20250816220419.png",
+    "TryHackMe - Steel Mountain.md",
+    "Welcome.md"
+  ]
+}
